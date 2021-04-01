@@ -1,0 +1,9 @@
+npx eslint .
+npx eslint . --fix // ysallah wahdou w yrajaa les points virgules ama nhotou fel eslint semi : error
+ki nhotou semi : off maykharajlekch les erreurs
+  1:1  error  'console' is not defined  no-undef : console mawjouda fi window fel browser // ma kolnelouch eli ahna nekhdmou aal browser
+  no-undef : permet de determiner les variables qui n'ont pas été déclarées
+
+  prettier.io
+  mettre dans gitignore
+  prettier.ignore 
